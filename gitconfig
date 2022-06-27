@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = karim.meghraoui7@gmail.com
+	name = karimmeghraoui
